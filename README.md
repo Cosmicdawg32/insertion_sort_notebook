@@ -15,5 +15,13 @@ Hello, this is a third level heading
 
 ![alt text for screen readers](./Test.jpeg "Text to show on mouseover")
 
+### Code Blocks
+```Python
+print("Hello, world!")
+```
 
+### Math
+$$
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
 
